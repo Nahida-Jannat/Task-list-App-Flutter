@@ -1,7 +1,6 @@
 # 📝 Task Flow - Beautiful Task Management App
 
 <div align="center">
-  <img src="screenshots/cover.png" alt="Task Flow Cover" width="100%">
   
   [![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev)
   [![Dart Version](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev)
